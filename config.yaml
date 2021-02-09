@@ -1,0 +1,24 @@
+username: 
+password: 
+
+positions:
+- Software Developer
+- Android Developer
+- Python Developer
+
+locations:
+- United States
+- # A second location you want to search in 
+
+# --------- Optional Parameters -------
+uploads:
+#  Resume: # PATH TO resume
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
