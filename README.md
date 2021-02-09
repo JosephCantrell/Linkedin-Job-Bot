@@ -1,8 +1,7 @@
 # Linkedin EasyApply Bot
 Automate the application process on LinkedIn
 
-Medium Write-up: https://medium.com/xplor8/how-to-apply-for-1-000-jobs-while-you-are-sleeping-da27edc3b703
-Video: https://www.youtube.com/watch?v=4R4E304fEAs
+THIS IS NOT MY CODE. I modified the original code to fit my needs.
 
 ## Setup 
 
@@ -51,5 +50,19 @@ list in the config file.
 To execute the bot run the following in your terminal
 ```
 python3 easyapplybot.py
+
+OR
+
+easyapplybot.py
 ```
 
+###  Parameters  
+
+```
+-h		Parameter help
+-s 		Tells the bot where to start on the job search (Multiples of 25)
+-r		Tells the bot to search for jobs that are only remote
+-d		Tells the bot to search for jobs within the last 24 hours
+-w		Tells the bot to search for jobs within the last week
+-m		Tells the bot to search for jobs within the last month
+```
